@@ -1,11 +1,14 @@
 # 💫 About Me:
-<br>👩🏻‍💻  Game developmer/programmer :3<br/><br>👩🏻‍🎓  Studying Game Development/Design in college<br/><br>🎨  Pronouns: She/Her<br/><br>💭  Fun fact: I've been programming since I was about 7 :D<br/> <img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/> I use arch-btw ![image](https://github.com/user-attachments/assets/4a67d66a-1789-45de-9821-06fa5adf48f9)
+<br>👩🏻‍💻  Game developmer/programmer :3<br/><br>👩🏻‍🎓  Studying Game Development/Design in college<br/><br>🎨  Pronouns: She/Her<br/><br>💭  Fun fact: I've been programming since I was about 7 :D<br/> 
 
+---
+<img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/> I use arch-btw ![image](https://github.com/user-attachments/assets/4a67d66a-1789-45de-9821-06fa5adf48f9) <br/>
 
-
+---
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/rainygayming) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RainGaymes) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RainGayming) 
 
+---
 # 💻 Tech Stack:
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
