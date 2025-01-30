@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br>👩🏻‍💻  Game developmer/programmer :3<br/><br>👩🏻‍🎓  Studying Game Development/Design in college<br/><br>🎨  Pronouns: She/Her<br/><br>💭  Fun fact: I've been programming since I was about 7 :D<br/>
+<br>👩🏻‍💻  Game developmer/programmer :3<br/><br>👩🏻‍🎓  Studying Game Development/Design in college<br/><br>🎨  Pronouns: She/Her<br/><br>💭  Fun fact: I've been programming since I was about 7 :D<br/> <img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/> I use arch-btw ![image](https://github.com/user-attachments/assets/4a67d66a-1789-45de-9821-06fa5adf48f9)
+
 
 
 ## 🌐 Socials:
