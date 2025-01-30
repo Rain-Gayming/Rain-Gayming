@@ -1,5 +1,5 @@
 ## Hi I'm Rain
-<!--
+
 👩🏻‍💻  Game developmer/programmer :3
 👩🏻‍🎓  Studying Game Development/Design in college
 🎨  Pronouns: She/Her
