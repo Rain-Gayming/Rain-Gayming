@@ -22,6 +22,7 @@
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rain-gayming&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rain-gayming&theme=catppuccin_mocha&hide_border=false)<br/>
